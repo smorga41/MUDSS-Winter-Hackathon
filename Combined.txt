@@ -1,0 +1,12 @@
+rmse: 0.08228908636340566 note: Combined model Lasso + XGB
+rmse: 0.08228908636340566 note: Combined model Lasso + XGB
+rmse: 0.1456415263824732 note: Combined model Lasso + XGB
+rmse: 0.16406585047958033 note: Combined model Lasso + XGB
+rmse: 0.16406585047958033 note: Combined model Lasso + XGB
+rmse: 0.16406585047958033 note: Combined model Lasso + XGB
+rmse: 0.1437493392727153 note: Combined model Lasso + XGB
+rmse: 0.1505800216959786 note: Combined model Lasso + XGB
+rmse: 0.16907745893510975 note: Combined model Lasso + XGB
+rmse: 0.16399223707891797 note: Combined model Lasso + XGB
+rmse: 0.16399223707891797 note: Combined model Lasso + XGB
+rmse: 0.14281148585380063 note: Combined model Lasso + XGB

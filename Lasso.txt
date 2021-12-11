@@ -6,3 +6,13 @@ rmse: 0.10208733729218197 alpha: 0.0005 note: replaced NaNs in all columns, Stan
 rmse: 0.12164654258701041 alpha: 0.0005 note: replaced NaNs in all columns, Standardized
 rmse: 0.11526917231493096 alpha: 0.01 note: replaced NaNs in all columns, Standardized
 rmse: 0.18993677266731487 alpha: 0.001 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.13435837888301766 alpha: 0.01 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.13435837888301766 alpha: 0.01 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.1298930271420971 alpha: 0.01 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.15665209415756737 alpha: 0.01 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.15665209415756737 alpha: 0.01 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.10878860647582037 alpha: 0.01 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.11154430008284995 alpha: 0.001 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.1192841726776625 alpha: 0.001 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.12452560761093887 alpha: 0.001 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.19812903185622405 alpha: 0.01 note: replaced NaNs in all columns, Standardized all features

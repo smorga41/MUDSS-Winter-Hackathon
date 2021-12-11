@@ -1,3 +1,13 @@
 rmse: 0.12271043673323404 params: {'colsample_bytree': 0.4, 'eta': 0.15, 'gamma': 0.0, 'max_depth': 4} note: Done Grid Search for XGBoost
 rmse: 0.1402855916650345 params: {'colsample_bytree': 0.4, 'eta': 0.15, 'gamma': 0.0, 'max_depth': 4} note: Done Grid Search for XGBoost
 rmse: 0.07662535017793921 params: {'colsample_bytree': 0.4, 'eta': 0.15, 'gamma': 0.0, 'max_depth': 4} note: Done Grid Search for XGBoost
+rmse: 0.08228908636340566 params: {'colsample_bytree': 0.3, 'eta': 0.05, 'gamma': 0.0, 'max_depth': 6} note: Done Grid Search for XGBoost
+rmse: 0.08228908636340566 params: {'colsample_bytree': 0.3, 'eta': 0.05, 'gamma': 0.0, 'max_depth': 6} note: Done Grid Search for XGBoost
+rmse: 0.08228908636340566 params: {'colsample_bytree': 0.3, 'eta': 0.05, 'gamma': 0.0, 'max_depth': 6} note: Done Grid Search for XGBoost
+rmse: 0.1456415263824732 note: Done Grid Search for XGBoost
+rmse: 0.16406585047958033 note: Done Grid Search for XGBoost
+rmse: 0.1437493392727153 note: Done Grid Search for XGBoost
+rmse: 0.1505800216959786 note: Done Grid Search for XGBoost
+rmse: 0.16907745893510975 note: Done Grid Search for XGBoost
+rmse: 0.16399223707891797 note: Done Grid Search for XGBoost
+rmse: 0.14281148585380063 note: Done Grid Search for XGBoost
