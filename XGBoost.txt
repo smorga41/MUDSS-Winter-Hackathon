@@ -1,0 +1,3 @@
+rmse: 0.12271043673323404 params: {'colsample_bytree': 0.4, 'eta': 0.15, 'gamma': 0.0, 'max_depth': 4} note: Done Grid Search for XGBoost
+rmse: 0.1402855916650345 params: {'colsample_bytree': 0.4, 'eta': 0.15, 'gamma': 0.0, 'max_depth': 4} note: Done Grid Search for XGBoost
+rmse: 0.07662535017793921 params: {'colsample_bytree': 0.4, 'eta': 0.15, 'gamma': 0.0, 'max_depth': 4} note: Done Grid Search for XGBoost
